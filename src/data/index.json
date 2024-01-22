@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in HTML, CSS, and JavaScript, I bring a dynamic skill set to front-end development. Specializing in creating responsive and visually engaging user interfaces, I ensure seamless and interactive digital experiences. Familiar with modern frameworks and tools, I am dedicated to delivering cutting-edge web solutions with a keen eye for design aesthetics."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Comfortable with back-end technologies, I work with server-side scripting using languages like Python, Node.js, and PHP. Proficient in databases like MySQL and MongoDB, I focus on creating efficient back-end systems for smooth web application functionality."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Skilled in UI/UX design, I specialize in creating intuitive and visually appealing user interfaces. Proficient in tools like Figma and Adobe XD, I craft wireframes and prototypes to enhance user experiences. With a keen eye for detail and a user-centric approach, I ensure seamless navigation and engaging designs for digital products."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Experienced in Webflow development, I leverage the platform to create responsive and visually compelling websites without diving into code. Proficient in designing and structuring layouts, I bring ideas to life while ensuring a seamless user experience. From animations to interactions, I specialize in utilizing Webflow's capabilities to craft dynamic and polished web solutions."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Blogs",
+      "description": "Step into the dynamic world of my blogs – where modern insights unfold with each click. Open the door to a thought-provoking experience that resonates with the pulse of today's trends and ideas.",
+      "link": "Visit Website"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Graphic Design Projects",
+      "description": "Welcome to my world of graphic design mastery. Explore my portfolio, where every pixel tells a story of creativity, innovation, and a passion for visually captivating experiences.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Front-End Development Projects",
+      "description": "Explore a curated collection of web projects where I bring code to life, crafting seamless user interfaces and embracing the essence of modern digital innovation.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Incredible front-end skills! The websites are sleek and user-friendly, giving our brand a modern edge.",
+      "author_name": "Olivia Bennett",
+      "author_designation": "Zenith Dynamics Solutions"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/Avatar-image-1.png",
+      "description": "Graphic design genius! Our visual identity has never looked better, thanks to seamless front-end development.",
+      "author_name": "Marcus Rodriguez",
+      "author_designation": "Cascade Creations Studio"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/Avatar-image-2.png",
+      "description": "Game-changer for our business. Stunning websites and top-notch graphic design – a perfect blend of artistry and innovation!",
+      "author_name": "Vivian Chang",
+      "author_designation": "Quantum Insight Ventures"
+    }
+  ]
+}
